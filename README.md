@@ -25,5 +25,5 @@ By giving this node a key that is contained in the raw response (here, 'token'),
 This is useful to extract the id of a newly-created account, the shortname of a course, or as it is done here, a user token, from a raw server response.
 
 
-![Logo](https://github.com/CAP160-GameTeam/CAP160Img/blob/main/MoodleTokenExample.png?raw=true)
+![Logo](https://raw.githubusercontent.com/CAP160-GameTeam/CAP160Img/e3430918da8c6711aabcb3d0025a53e62a399600/MoodleTokenExample.png)
 
